@@ -2,7 +2,7 @@
   "name": "skillconnect",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qianhuisun2020.github.io/SkillConnect/",
+  "homepage": "http://qianhuisun2020.github.io/SkillConnect/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
