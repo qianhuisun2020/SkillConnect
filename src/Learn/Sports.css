@@ -1,0 +1,20 @@
+.Sports {
+    min-height: 100vh;
+    background-color: #dfe3ee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.Sports-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 24px;
+    color: black;
+    margin-top:10px;
+}
+

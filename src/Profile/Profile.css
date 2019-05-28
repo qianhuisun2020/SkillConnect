@@ -1,0 +1,22 @@
+.Selector {
+    width: 400px;
+    margin: 0 auto;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#submit {
+    width: 200px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+#cancel {
+    width: 200px;
+    margin-top: 20px;
+    height: 40px;
+}
