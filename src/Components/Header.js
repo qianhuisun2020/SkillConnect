@@ -16,7 +16,7 @@ class Header extends Component {
         return (
             <div id="header">
                 <Link to="/Explore">
-                <p id="title">SkillConnect1</p>
+                <p id="title">SkillConnect</p>
                 </Link>
             </div>
         )
